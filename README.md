@@ -2,6 +2,8 @@
 
 - [github pages p5mirror-jht1900](https://jht1900.github.io/p5mirror-jht1900/)
 
+- [p5projects-index](./p5projects-index.md)
+
 ## How ? Quick start
 
 ```
