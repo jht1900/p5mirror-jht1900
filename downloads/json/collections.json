@@ -1,0 +1,76 @@
+[
+  {
+    "name": "My changeable collection",
+    "_id": "l6SQ85p4S",
+    "owner": {
+      "_id": "59fa7607513a0224544ec612",
+      "username": "jht1900",
+      "id": "59fa7607513a0224544ec612"
+    },
+    "description": "",
+    "slug": "My_changeable_collection",
+    "items": [
+      {
+        "_id": "616eebde5e5d49002442b960",
+        "project": {
+          "name": "ICM Week 4 Exercise 6 copy",
+          "_id": "jnBJzV5BN",
+          "user": {
+            "_id": "59fa7607513a0224544ec612",
+            "username": "jht1900",
+            "id": "59fa7607513a0224544ec612"
+          },
+          "slug": "ICM_Week_4_Exercise_6_copy",
+          "id": "jnBJzV5BN"
+        },
+        "createdAt": "2021-10-19T16:01:34.370Z",
+        "updatedAt": "2021-10-19T16:01:34.370Z",
+        "id": "616eebde5e5d49002442b960",
+        "projectId": "jnBJzV5BN",
+        "isDeleted": false
+      },
+      {
+        "_id": "616eebdf5e5d49002442b965",
+        "project": {
+          "name": "p5js Code! - Arrays and Loops copy",
+          "_id": "sQds8DXVg",
+          "user": {
+            "_id": "59fa7607513a0224544ec612",
+            "username": "jht1900",
+            "id": "59fa7607513a0224544ec612"
+          },
+          "slug": "p5js_Code!_Arrays_and_Loops_copy",
+          "id": "sQds8DXVg"
+        },
+        "createdAt": "2021-10-19T16:01:35.811Z",
+        "updatedAt": "2021-10-19T16:01:35.811Z",
+        "id": "616eebdf5e5d49002442b965",
+        "projectId": "sQds8DXVg",
+        "isDeleted": false
+      },
+      {
+        "_id": "616eebe148f36b00243cc069",
+        "project": {
+          "name": "p5js Code! - What is an Array? copy",
+          "_id": "hhshLS36S",
+          "user": {
+            "_id": "59fa7607513a0224544ec612",
+            "username": "jht1900",
+            "id": "59fa7607513a0224544ec612"
+          },
+          "slug": "p5js_Code!_What_is_an_Array_copy",
+          "id": "hhshLS36S"
+        },
+        "createdAt": "2021-10-19T16:01:37.235Z",
+        "updatedAt": "2021-10-19T16:01:37.235Z",
+        "id": "616eebe148f36b00243cc069",
+        "projectId": "hhshLS36S",
+        "isDeleted": false
+      }
+    ],
+    "createdAt": "2021-10-19T16:01:25.557Z",
+    "updatedAt": "2021-10-19T16:01:37.235Z",
+    "__v": 3,
+    "id": "l6SQ85p4S"
+  }
+]
