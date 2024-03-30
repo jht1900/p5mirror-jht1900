@@ -1,4 +1,4 @@
-# [p5mirror](https://github.com/molab-itp/p5mirror)
+# [p5mirror-jht1900](https://github.com/jht1900/p5mirror-jht1900.git)
 
 - [github pages p5mirror-jht1900](https://jht1900.github.io/p5mirror-jht1900/)
 
