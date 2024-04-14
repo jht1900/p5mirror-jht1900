@@ -1,5 +1,5 @@
 # Sketches for jht1900
-81 sketches  
+87 sketches  
 [10PRINT](https://editor.p5js.org/jht1900/sketches/Bkum5s_0Z)<!-- 2017-11-06T01:15:54.806Z -->  
 [11.3: The Pixel Array Sin](https://editor.p5js.org/jht1900/sketches/1Iy_OBSuc)<!-- 2022-10-28T15:55:49.102Z -->  
 [11.3: The Pixel Array sin set](https://editor.p5js.org/jht1900/sketches/krF70udFG)<!-- 2022-10-30T07:53:14.276Z -->  
@@ -30,9 +30,11 @@
 [Exotic rose WHITE](https://editor.p5js.org/jht1900/sketches/rJrRPluAb)<!-- 2017-11-02T01:45:47.629Z -->  
 [Facemesh\_Image copy](https://editor.p5js.org/jht1900/sketches/ycK5M26h5)<!-- 2021-06-24T19:25:57.490Z -->  
 [FFT Mic](https://editor.p5js.org/jht1900/sketches/GqgK2y03x)<!-- 2021-05-04T03:33:05.162Z -->  
+[Flat memory](https://editor.p5js.org/jht1900/sketches/3474rEu0V)<!-- 2024-04-11T22:04:06.998Z -->  
 [font8x8 full screen copy](https://editor.p5js.org/jht1900/sketches/ZQ_EH6PMT)<!-- 2020-09-08T12:48:31.837Z -->  
 [ICM Week 4 Exercise 6 copy](https://editor.p5js.org/jht1900/sketches/jnBJzV5BN)<!-- 2021-10-19T16:16:59.735Z -->  
 [keyPressed 1QAZ FFT](https://editor.p5js.org/jht1900/sketches/cS6CS1DsM)<!-- 2021-04-28T00:29:31.405Z -->  
+[Lightning trouble](https://editor.p5js.org/jht1900/sketches/iGWSQiLpX)<!-- 2024-04-11T22:03:49.857Z -->  
 [mediaDevices.enumerateDevices](https://editor.p5js.org/jht1900/sketches/p0dU2Lfac)<!-- 2021-04-16T04:13:05.811Z -->  
 [ml5 Facemesh\_Webcam](https://editor.p5js.org/jht1900/sketches/T3apd8NgA)<!-- 2021-04-27T23:30:04.887Z -->  
 [ml5 Facemesh\_Webcam resize](https://editor.p5js.org/jht1900/sketches/ZxPcgHsS4)<!-- 2021-04-28T15:47:50.474Z -->  
@@ -73,6 +75,10 @@
 [RGBx-black](https://editor.p5js.org/jht1900/sketches/SJmGxWOCZ)<!-- 2017-11-02T13:49:05.967Z -->  
 [save img jht](https://editor.p5js.org/jht1900/sketches/HJ-HFZ50W)<!-- 2017-11-03T15:26:13.125Z -->  
 [Shared Space blend](https://editor.p5js.org/jht1900/sketches/-BfxhH6hn)<!-- 2021-06-09T20:19:33.633Z -->  
+[Simulate: SoftBody copy](https://editor.p5js.org/jht1900/sketches/fSUYUL7mJ)<!-- 2024-04-11T22:07:51.113Z -->  
+[Skitter abacus](https://editor.p5js.org/jht1900/sketches/-z75JPb1m)<!-- 2024-04-11T22:01:21.765Z -->  
+[Skitter abacus](https://editor.p5js.org/jht1900/sketches/50XGMdQXY)<!-- 2024-04-11T21:59:16.320Z -->  
+[Skitter abacus](https://editor.p5js.org/jht1900/sketches/DQ1neg3ZHP)<!-- 2024-04-11T21:57:24.618Z -->  
 [two circle 2 copy](https://editor.p5js.org/jht1900/sketches/B4yC4p3LQ)<!-- 2021-04-19T02:42:08.058Z -->  
 [two circle 2 copy](https://editor.p5js.org/jht1900/sketches/M3nuTk9m7)<!-- 2021-04-17T15:09:55.950Z -->  
 [video clock](https://editor.p5js.org/jht1900/sketches/SQvdG-9bM)<!-- 2022-11-04T02:40:41.889Z -->  

@@ -1,5 +1,11 @@
 # Sketches for jht1900
-81 sketches  
+87 sketches  
+[Simulate: SoftBody copy](https://editor.p5js.org/jht1900/sketches/fSUYUL7mJ)<!-- 2024-04-11T22:07:51.113Z -->  
+[Flat memory](https://editor.p5js.org/jht1900/sketches/3474rEu0V)<!-- 2024-04-11T22:04:06.998Z -->  
+[Lightning trouble](https://editor.p5js.org/jht1900/sketches/iGWSQiLpX)<!-- 2024-04-11T22:03:49.857Z -->  
+[Skitter abacus](https://editor.p5js.org/jht1900/sketches/-z75JPb1m)<!-- 2024-04-11T22:01:21.765Z -->  
+[Skitter abacus](https://editor.p5js.org/jht1900/sketches/50XGMdQXY)<!-- 2024-04-11T21:59:16.320Z -->  
+[Skitter abacus](https://editor.p5js.org/jht1900/sketches/DQ1neg3ZHP)<!-- 2024-04-11T21:57:24.618Z -->  
 [video scan radial](https://editor.p5js.org/jht1900/sketches/-Ypn6ODK_)<!-- 2024-03-30T15:36:59.665Z -->  
 [video radial perlin pix](https://editor.p5js.org/jht1900/sketches/PLn3zH1Gd)<!-- 2022-11-12T21:17:16.475Z -->  
 [video clock](https://editor.p5js.org/jht1900/sketches/SQvdG-9bM)<!-- 2022-11-04T02:40:41.889Z -->  

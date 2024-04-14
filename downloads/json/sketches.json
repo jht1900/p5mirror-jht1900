@@ -1682,6 +1682,60 @@
     "id": "GqgK2y03x"
   },
   {
+    "name": "Flat memory",
+    "_id": "3474rEu0V",
+    "updatedAt": "2024-04-11T22:04:06.998Z",
+    "files": [
+      {
+        "name": "root",
+        "content": "",
+        "children": [
+          "66185e4d4415aea1a226bd42",
+          "66185e4d4415aea1a226bd41",
+          "66185e4d4415aea1a226bd43"
+        ],
+        "fileType": "folder",
+        "_id": "66185e4d4415aea1a226bd44",
+        "createdAt": "2024-04-11T22:04:06.998Z",
+        "updatedAt": "2024-04-11T22:04:06.998Z",
+        "id": "66185e4d4415aea1a226bd44"
+      },
+      {
+        "name": "sketch.js",
+        "content": "function setup() {\n  createCanvas(400, 400);\n}\n\nfunction draw() {\n  background(220);\n}",
+        "children": [],
+        "fileType": "file",
+        "_id": "66185e4d4415aea1a226bd41",
+        "isSelectedFile": true,
+        "createdAt": "2024-04-11T22:04:06.998Z",
+        "updatedAt": "2024-04-11T22:04:06.998Z",
+        "id": "66185e4d4415aea1a226bd41"
+      },
+      {
+        "name": "index.html",
+        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "66185e4d4415aea1a226bd42",
+        "createdAt": "2024-04-11T22:04:06.998Z",
+        "updatedAt": "2024-04-11T22:04:06.998Z",
+        "id": "66185e4d4415aea1a226bd42"
+      },
+      {
+        "name": "style.css",
+        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "66185e4d4415aea1a226bd43",
+        "createdAt": "2024-04-11T22:04:06.998Z",
+        "updatedAt": "2024-04-11T22:04:06.998Z",
+        "id": "66185e4d4415aea1a226bd43"
+      }
+    ],
+    "createdAt": "2024-04-11T22:04:06.998Z",
+    "id": "3474rEu0V"
+  },
+  {
     "name": "font8x8 full screen copy",
     "_id": "ZQ_EH6PMT",
     "files": [
@@ -1872,6 +1926,60 @@
     "createdAt": "2021-04-28T00:26:57.746Z",
     "updatedAt": "2021-04-28T00:29:31.405Z",
     "id": "cS6CS1DsM"
+  },
+  {
+    "name": "Lightning trouble",
+    "_id": "iGWSQiLpX",
+    "updatedAt": "2024-04-11T22:03:49.857Z",
+    "files": [
+      {
+        "name": "root",
+        "content": "",
+        "children": [
+          "66185e394415aea1a226bd3e",
+          "66185e394415aea1a226bd3d",
+          "66185e394415aea1a226bd3f"
+        ],
+        "fileType": "folder",
+        "_id": "66185e394415aea1a226bd40",
+        "createdAt": "2024-04-11T22:03:49.857Z",
+        "updatedAt": "2024-04-11T22:03:49.857Z",
+        "id": "66185e394415aea1a226bd40"
+      },
+      {
+        "name": "sketch.js",
+        "content": "function setup() {\n  createCanvas(400, 400);\n}\n\nfunction draw() {\n  background(220);\n}",
+        "children": [],
+        "fileType": "file",
+        "_id": "66185e394415aea1a226bd3d",
+        "isSelectedFile": true,
+        "createdAt": "2024-04-11T22:03:49.857Z",
+        "updatedAt": "2024-04-11T22:03:49.857Z",
+        "id": "66185e394415aea1a226bd3d"
+      },
+      {
+        "name": "index.html",
+        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "66185e394415aea1a226bd3e",
+        "createdAt": "2024-04-11T22:03:49.857Z",
+        "updatedAt": "2024-04-11T22:03:49.857Z",
+        "id": "66185e394415aea1a226bd3e"
+      },
+      {
+        "name": "style.css",
+        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "66185e394415aea1a226bd3f",
+        "createdAt": "2024-04-11T22:03:49.857Z",
+        "updatedAt": "2024-04-11T22:03:49.857Z",
+        "id": "66185e394415aea1a226bd3f"
+      }
+    ],
+    "createdAt": "2024-04-11T22:03:49.857Z",
+    "id": "iGWSQiLpX"
   },
   {
     "name": "mediaDevices.enumerateDevices",
@@ -4071,6 +4179,222 @@
     "createdAt": "2021-06-09T19:20:32.748Z",
     "updatedAt": "2021-06-09T20:19:33.633Z",
     "id": "-BfxhH6hn"
+  },
+  {
+    "name": "Simulate: SoftBody copy",
+    "_id": "fSUYUL7mJ",
+    "files": [
+      {
+        "name": "root",
+        "content": "",
+        "children": [
+          "66185f274415aea1a226bd4a",
+          "66185f274415aea1a226bd4b",
+          "66185f274415aea1a226bd4c"
+        ],
+        "fileType": "folder",
+        "_id": "66185f274415aea1a226bd49",
+        "createdAt": "2024-04-11T22:07:51.113Z",
+        "updatedAt": "2024-04-11T22:07:51.113Z",
+        "id": "66185f274415aea1a226bd49"
+      },
+      {
+        "name": "sketch.js",
+        "content": "/*\n * @name Soft Body\n * @arialabel White pentagon on a black screen that morphs into a blob as it follows the user’s mouse\n * @description Original example by Ira Greenberg.\n * <br><br>Softbody dynamics simulation using curveVertex() and curveTightness().\n */\n// center point\nlet centerX = 0.0, centerY = 0.0;\n\nlet radius = 45, rotAngle = -90;\nlet accelX = 0.0, accelY = 0.0;\nlet deltaX = 0.0, deltaY = 0.0;\nlet springing = 0.0009, damping = 0.98;\n\n//corner nodes\nlet nodes = 15;\n\n//zero fill arrays\nlet nodeStartX = [];\nlet nodeStartY = [];\nlet nodeX = [];\nlet nodeY = [];\nlet angle = [];\nlet frequency = [];\n\n// soft-body dynamics\nlet organicConstant = 1.0;\n\nfunction setup() {\n  createCanvas(710, 400);\n\n  //center shape in window\n  centerX = width / 2;\n  centerY = height / 2;\n\n  //initialize arrays to 0\n  for (let i = 0; i < nodes; i++){\n    nodeStartX[i] = 0;\n    nodeStartY[i] = 0;\n    nodeY[i] = 0;\n    nodeY[i] = 0;\n    angle[i] = 0;\n  }\n\n  // iniitalize frequencies for corner nodes\n  for (let i = 0; i < nodes; i++){\n    frequency[i] = random(5, 12);\n  }\n\n  noStroke();\n  frameRate(30);\n}\n\nfunction draw() {\n  //fade background\n  fill(0, 100);\n  rect(0, 0, width, height);\n  drawShape();\n  moveShape();\n}\n\nfunction drawShape() {\n  //  calculate node  starting locations\n  for (let i = 0; i < nodes; i++){\n    nodeStartX[i] = centerX + cos(radians(rotAngle)) * radius;\n    nodeStartY[i] = centerY + sin(radians(rotAngle)) * radius;\n    rotAngle += 360.0 / nodes;\n  }\n\n  // draw polygon\n  curveTightness(organicConstant);\n  fill(255);\n  beginShape();\n  for (let i = 0; i < nodes; i++){\n    curveVertex(nodeX[i], nodeY[i]);\n  }\n  for (let i = 0; i < nodes-1; i++){\n    curveVertex(nodeX[i], nodeY[i]);\n  }\n  endShape(CLOSE);\n}\n\nfunction moveShape() {\n  //move center point\n  deltaX = mouseX - centerX;\n  deltaY = mouseY - centerY;\n\n  // create springing effect\n  deltaX *= springing;\n  deltaY *= springing;\n  accelX += deltaX;\n  accelY += deltaY;\n\n  // move predator's center\n  centerX += accelX;\n  centerY += accelY;\n\n  // slow down springing\n  accelX *= damping;\n  accelY *= damping;\n\n  // change curve tightness\n  organicConstant = 1 - ((abs(accelX) + abs(accelY)) * 0.1);\n\n  //move nodes\n  for (let i = 0; i < nodes; i++){\n    nodeX[i] = nodeStartX[i] + sin(radians(angle[i])) * (accelX * 2);\n    nodeY[i] = nodeStartY[i] + sin(radians(angle[i])) * (accelY * 2);\n    angle[i] += frequency[i];\n  }\n}\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "66185f274415aea1a226bd4b",
+        "isSelectedFile": true,
+        "createdAt": "2024-04-11T22:07:51.113Z",
+        "updatedAt": "2024-04-11T22:07:51.113Z",
+        "id": "66185f274415aea1a226bd4b"
+      },
+      {
+        "name": "index.html",
+        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.2/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.2/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "66185f274415aea1a226bd4a",
+        "createdAt": "2024-04-11T22:07:51.113Z",
+        "updatedAt": "2024-04-11T22:07:51.113Z",
+        "id": "66185f274415aea1a226bd4a"
+      },
+      {
+        "name": "style.css",
+        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "66185f274415aea1a226bd4c",
+        "createdAt": "2024-04-11T22:07:51.113Z",
+        "updatedAt": "2024-04-11T22:07:51.113Z",
+        "id": "66185f274415aea1a226bd4c"
+      }
+    ],
+    "createdAt": "2024-04-11T22:07:35.738Z",
+    "updatedAt": "2024-04-11T22:07:51.113Z",
+    "id": "fSUYUL7mJ"
+  },
+  {
+    "name": "Skitter abacus",
+    "_id": "-z75JPb1m",
+    "files": [
+      {
+        "name": "root",
+        "content": "",
+        "children": [
+          "6577a11c93b4c17638462b5c",
+          "6577a11c93b4c17638462b5b",
+          "6577a11c93b4c17638462b5d"
+        ],
+        "fileType": "folder",
+        "_id": "6577a11c93b4c17638462b5e",
+        "createdAt": "2024-04-11T22:01:21.765Z",
+        "updatedAt": "2024-04-11T22:01:21.765Z",
+        "id": "6577a11c93b4c17638462b5e"
+      },
+      {
+        "name": "sketch.js",
+        "content": "function setup() {\n  //This is a programatically generated file!!! \n createCanvas(400, 400);\n}\n\n\nfunction draw() {\n  background(220);\n}",
+        "children": [],
+        "fileType": "file",
+        "_id": "6577a11c93b4c17638462b5b",
+        "isSelectedFile": true,
+        "createdAt": "2024-04-11T22:01:21.765Z",
+        "updatedAt": "2024-04-11T22:01:21.765Z",
+        "id": "6577a11c93b4c17638462b5b"
+      },
+      {
+        "name": "index.html",
+        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "6577a11c93b4c17638462b5c",
+        "createdAt": "2024-04-11T22:01:21.765Z",
+        "updatedAt": "2024-04-11T22:01:21.765Z",
+        "id": "6577a11c93b4c17638462b5c"
+      },
+      {
+        "name": "style.css",
+        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "6577a11c93b4c17638462b5d",
+        "createdAt": "2024-04-11T22:01:21.765Z",
+        "updatedAt": "2024-04-11T22:01:21.765Z",
+        "id": "6577a11c93b4c17638462b5d"
+      }
+    ],
+    "createdAt": "2024-04-11T22:01:21.765Z",
+    "updatedAt": "2024-04-11T22:01:21.765Z",
+    "id": "-z75JPb1m"
+  },
+  {
+    "name": "Skitter abacus",
+    "_id": "50XGMdQXY",
+    "files": [
+      {
+        "name": "root",
+        "content": "",
+        "children": [
+          "6577a11c93b4c17638462b5c",
+          "6577a11c93b4c17638462b5b",
+          "6577a11c93b4c17638462b5d"
+        ],
+        "fileType": "folder",
+        "_id": "6577a11c93b4c17638462b5e",
+        "createdAt": "2024-04-11T21:59:16.320Z",
+        "updatedAt": "2024-04-11T21:59:16.320Z",
+        "id": "6577a11c93b4c17638462b5e"
+      },
+      {
+        "name": "sketch.js",
+        "content": "function setup() {\n  //This is a programatically generated file!!! \n createCanvas(400, 400);\n}\n\n\nfunction draw() {\n  background(220);\n}",
+        "children": [],
+        "fileType": "file",
+        "_id": "6577a11c93b4c17638462b5b",
+        "isSelectedFile": true,
+        "createdAt": "2024-04-11T21:59:16.320Z",
+        "updatedAt": "2024-04-11T21:59:16.320Z",
+        "id": "6577a11c93b4c17638462b5b"
+      },
+      {
+        "name": "index.html",
+        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "6577a11c93b4c17638462b5c",
+        "createdAt": "2024-04-11T21:59:16.320Z",
+        "updatedAt": "2024-04-11T21:59:16.320Z",
+        "id": "6577a11c93b4c17638462b5c"
+      },
+      {
+        "name": "style.css",
+        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "6577a11c93b4c17638462b5d",
+        "createdAt": "2024-04-11T21:59:16.320Z",
+        "updatedAt": "2024-04-11T21:59:16.320Z",
+        "id": "6577a11c93b4c17638462b5d"
+      }
+    ],
+    "createdAt": "2024-04-11T21:59:16.320Z",
+    "updatedAt": "2024-04-11T21:59:16.320Z",
+    "id": "50XGMdQXY"
+  },
+  {
+    "name": "Skitter abacus",
+    "_id": "DQ1neg3ZHP",
+    "files": [
+      {
+        "name": "root",
+        "content": "",
+        "children": [
+          "6577a11c93b4c17638462b5c",
+          "6577a11c93b4c17638462b5b",
+          "6577a11c93b4c17638462b5d"
+        ],
+        "fileType": "folder",
+        "_id": "6577a11c93b4c17638462b5e",
+        "createdAt": "2024-04-11T21:57:24.617Z",
+        "updatedAt": "2024-04-11T21:57:24.617Z",
+        "id": "6577a11c93b4c17638462b5e"
+      },
+      {
+        "name": "sketch.js",
+        "content": "function setup() {\n  //This is a programatically generated file!!! \n createCanvas(400, 400);\n}\n\n\nfunction draw() {\n  background(220);\n}",
+        "children": [],
+        "fileType": "file",
+        "_id": "6577a11c93b4c17638462b5b",
+        "isSelectedFile": true,
+        "createdAt": "2024-04-11T21:57:24.617Z",
+        "updatedAt": "2024-04-11T21:57:24.617Z",
+        "id": "6577a11c93b4c17638462b5b"
+      },
+      {
+        "name": "index.html",
+        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "6577a11c93b4c17638462b5c",
+        "createdAt": "2024-04-11T21:57:24.618Z",
+        "updatedAt": "2024-04-11T21:57:24.618Z",
+        "id": "6577a11c93b4c17638462b5c"
+      },
+      {
+        "name": "style.css",
+        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "6577a11c93b4c17638462b5d",
+        "createdAt": "2024-04-11T21:57:24.618Z",
+        "updatedAt": "2024-04-11T21:57:24.618Z",
+        "id": "6577a11c93b4c17638462b5d"
+      }
+    ],
+    "createdAt": "2024-04-11T21:57:24.618Z",
+    "updatedAt": "2024-04-11T21:57:24.618Z",
+    "id": "DQ1neg3ZHP"
   },
   {
     "name": "two circle 2 copy",

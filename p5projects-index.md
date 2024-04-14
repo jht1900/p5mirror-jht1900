@@ -1,5 +1,5 @@
 # jht1900 p5projects
-81 sketches 2024-03-30T15:36:59.665Z
+87 sketches 2024-04-11T22:07:51.113Z
 
 - [10PRINT-Bkum5s\_0Z](./p5projects/10PRINT-Bkum5s_0Z) [[p5js](https://editor.p5js.org/jht1900/sketches/Bkum5s_0Z)]
 - [11.3 The Pixel Array Sin-1Iy\_OBSuc](./p5projects/11.3%20The%20Pixel%20Array%20Sin-1Iy_OBSuc) [[p5js](https://editor.p5js.org/jht1900/sketches/1Iy_OBSuc)]
@@ -19,7 +19,9 @@
 - [Exotic rose WHITE-rJrRPluAb](./p5projects/Exotic%20rose%20WHITE-rJrRPluAb) [[p5js](https://editor.p5js.org/jht1900/sketches/rJrRPluAb)]
 - [FFT Mic-GqgK2y03x](./p5projects/FFT%20Mic-GqgK2y03x) [[p5js](https://editor.p5js.org/jht1900/sketches/GqgK2y03x)]
 - [Facemesh\_Image copy-ycK5M26h5](./p5projects/Facemesh_Image%20copy-ycK5M26h5) [[p5js](https://editor.p5js.org/jht1900/sketches/ycK5M26h5)]
+- [Flat memory-3474rEu0V](./p5projects/Flat%20memory-3474rEu0V) [[p5js](https://editor.p5js.org/jht1900/sketches/3474rEu0V)]
 - [ICM Week 4 Exercise 6 copy-jnBJzV5BN](./p5projects/ICM%20Week%204%20Exercise%206%20copy-jnBJzV5BN) [[p5js](https://editor.p5js.org/jht1900/sketches/jnBJzV5BN)]
+- [Lightning trouble-iGWSQiLpX](./p5projects/Lightning%20trouble-iGWSQiLpX) [[p5js](https://editor.p5js.org/jht1900/sketches/iGWSQiLpX)]
 - [RGB 1k dir bz-B1MRLx9Rb](./p5projects/RGB%201k%20dir%20bz-B1MRLx9Rb) [[p5js](https://editor.p5js.org/jht1900/sketches/B1MRLx9Rb)]
 - [RGB 1k dir-BkLs0kq0W](./p5projects/RGB%201k%20dir-BkLs0kq0W) [[p5js](https://editor.p5js.org/jht1900/sketches/BkLs0kq0W)]
 - [RGB 1k hold bz-H1WtIec0b](./p5projects/RGB%201k%20hold%20bz-H1WtIec0b) [[p5js](https://editor.p5js.org/jht1900/sketches/H1WtIec0b)]
@@ -36,6 +38,10 @@
 - [RGBx-HJpH3eORb](./p5projects/RGBx-HJpH3eORb) [[p5js](https://editor.p5js.org/jht1900/sketches/HJpH3eORb)]
 - [RGBx-black-SJmGxWOCZ](./p5projects/RGBx-black-SJmGxWOCZ) [[p5js](https://editor.p5js.org/jht1900/sketches/SJmGxWOCZ)]
 - [Shared Space blend-BfxhH6hn](./p5projects/Shared%20Space%20blend-BfxhH6hn) [[p5js](https://editor.p5js.org/jht1900/sketches/-BfxhH6hn)]
+- [Simulate SoftBody copy-fSUYUL7mJ](./p5projects/Simulate%20SoftBody%20copy-fSUYUL7mJ) [[p5js](https://editor.p5js.org/jht1900/sketches/fSUYUL7mJ)]
+- [Skitter abacus-50XGMdQXY](./p5projects/Skitter%20abacus-50XGMdQXY) [[p5js](https://editor.p5js.org/jht1900/sketches/50XGMdQXY)]
+- [Skitter abacus-DQ1neg3ZHP](./p5projects/Skitter%20abacus-DQ1neg3ZHP) [[p5js](https://editor.p5js.org/jht1900/sketches/Q1neg3ZHP)]
+- [Skitter abacus-z75JPb1m](./p5projects/Skitter%20abacus-z75JPb1m) [[p5js](https://editor.p5js.org/jht1900/sketches/-z75JPb1m)]
 - [Week \#4 Creative Exercise copy-GigPHgLj6](./p5projects/Week%20%234%20Creative%20Exercise%20copy-GigPHgLj6) [[p5js](https://editor.p5js.org/jht1900/sketches/GigPHgLj6)]
 - [capture invert mediaDevices.enumerateDevices-V\_2B-60A9](./p5projects/capture%20invert%20mediaDevices.enumerateDevices-V_2B-60A9) [[p5js](https://editor.p5js.org/jht1900/sketches/V_2B-60A9)]
 - [capture invert-e7dFUQ5-d](./p5projects/capture%20invert-e7dFUQ5-d) [[p5js](https://editor.p5js.org/jht1900/sketches/e7dFUQ5-d)]
