@@ -1,10 +1,13 @@
 # Sketches for jht1900
-87 sketches  
+86 sketches  
 [10PRINT](https://editor.p5js.org/jht1900/sketches/Bkum5s_0Z)<!-- 2017-11-06T01:15:54.806Z -->  
 [11.3: The Pixel Array Sin](https://editor.p5js.org/jht1900/sketches/1Iy_OBSuc)<!-- 2022-10-28T15:55:49.102Z -->  
 [11.3: The Pixel Array sin set](https://editor.p5js.org/jht1900/sketches/krF70udFG)<!-- 2022-10-30T07:53:14.276Z -->  
 [11.3: The Pixel Array Slider](https://editor.p5js.org/jht1900/sketches/fhYjoOkXe)<!-- 2022-10-28T16:14:52.636Z -->  
 [2.2.9 - draw\_obj 6](https://editor.p5js.org/jht1900/sketches/-f0RN-6Mt)<!-- 2021-04-13T02:47:11.765Z -->  
+[2024-04-12 gold](https://editor.p5js.org/jht1900/sketches/ifbDrg259)<!-- 2024-04-13T02:55:48.542Z -->  
+[2024-04-12 gold](https://editor.p5js.org/jht1900/sketches/XGOn8xg5L)<!-- 2024-04-12T19:53:18.480Z -->  
+[2024-04-12 red](https://editor.p5js.org/jht1900/sketches/zHrtMnSQJ)<!-- 2024-04-12T19:46:17.643Z -->  
 [8 Note Envelope FFT ui copy](https://editor.p5js.org/jht1900/sketches/LIRLhLfZr)<!-- 2021-04-28T02:49:45.047Z -->  
 [Advanced - Combine Canvas and Audio - Video Chat copy](https://editor.p5js.org/jht1900/sketches/5oIvCqxkp)<!-- 2021-06-09T18:26:43.307Z -->  
 [Advanced - Combine Canvas and Audio - Video Chat copy](https://editor.p5js.org/jht1900/sketches/pqfXNRIe1)<!-- 2021-04-20T04:05:55.034Z -->  
@@ -30,11 +33,9 @@
 [Exotic rose WHITE](https://editor.p5js.org/jht1900/sketches/rJrRPluAb)<!-- 2017-11-02T01:45:47.629Z -->  
 [Facemesh\_Image copy](https://editor.p5js.org/jht1900/sketches/ycK5M26h5)<!-- 2021-06-24T19:25:57.490Z -->  
 [FFT Mic](https://editor.p5js.org/jht1900/sketches/GqgK2y03x)<!-- 2021-05-04T03:33:05.162Z -->  
-[Flat memory](https://editor.p5js.org/jht1900/sketches/3474rEu0V)<!-- 2024-04-11T22:04:06.998Z -->  
 [font8x8 full screen copy](https://editor.p5js.org/jht1900/sketches/ZQ_EH6PMT)<!-- 2020-09-08T12:48:31.837Z -->  
 [ICM Week 4 Exercise 6 copy](https://editor.p5js.org/jht1900/sketches/jnBJzV5BN)<!-- 2021-10-19T16:16:59.735Z -->  
 [keyPressed 1QAZ FFT](https://editor.p5js.org/jht1900/sketches/cS6CS1DsM)<!-- 2021-04-28T00:29:31.405Z -->  
-[Lightning trouble](https://editor.p5js.org/jht1900/sketches/iGWSQiLpX)<!-- 2024-04-11T22:03:49.857Z -->  
 [mediaDevices.enumerateDevices](https://editor.p5js.org/jht1900/sketches/p0dU2Lfac)<!-- 2021-04-16T04:13:05.811Z -->  
 [ml5 Facemesh\_Webcam](https://editor.p5js.org/jht1900/sketches/T3apd8NgA)<!-- 2021-04-27T23:30:04.887Z -->  
 [ml5 Facemesh\_Webcam resize](https://editor.p5js.org/jht1900/sketches/ZxPcgHsS4)<!-- 2021-04-28T15:47:50.474Z -->  
@@ -58,6 +59,7 @@
 [p5LiveMedia Test Video](https://editor.p5js.org/jht1900/sketches/3cwUtBfWv)<!-- 2021-06-11T11:36:30.778Z -->  
 [p5LiveMedia Test Video on Canvas copy](https://editor.p5js.org/jht1900/sketches/NkJs0eiXz)<!-- 2021-06-15T18:47:28.304Z -->  
 [p5LiveMedia video dice twins mir](https://editor.p5js.org/jht1900/sketches/9AlTdNafC)<!-- 2021-04-20T01:56:40.237Z -->  
+[Past wildflower](https://editor.p5js.org/jht1900/sketches/B5tg8u0V5)<!-- 2024-04-13T00:52:50.649Z -->  
 [RGB 1k dir](https://editor.p5js.org/jht1900/sketches/BkLs0kq0W)<!-- 2017-11-03T13:51:50.763Z -->  
 [RGB 1k dir bz](https://editor.p5js.org/jht1900/sketches/B1MRLx9Rb)<!-- 2017-11-03T14:03:04.519Z -->  
 [RGB 1k hold](https://editor.p5js.org/jht1900/sketches/HklQ8gqRZ)<!-- 2017-11-03T14:00:21.576Z -->  
@@ -76,12 +78,9 @@
 [save img jht](https://editor.p5js.org/jht1900/sketches/HJ-HFZ50W)<!-- 2017-11-03T15:26:13.125Z -->  
 [Shared Space blend](https://editor.p5js.org/jht1900/sketches/-BfxhH6hn)<!-- 2021-06-09T20:19:33.633Z -->  
 [Simulate: SoftBody copy](https://editor.p5js.org/jht1900/sketches/fSUYUL7mJ)<!-- 2024-04-11T22:07:51.113Z -->  
-[Skitter abacus](https://editor.p5js.org/jht1900/sketches/-z75JPb1m)<!-- 2024-04-11T22:01:21.765Z -->  
-[Skitter abacus](https://editor.p5js.org/jht1900/sketches/50XGMdQXY)<!-- 2024-04-11T21:59:16.320Z -->  
-[Skitter abacus](https://editor.p5js.org/jht1900/sketches/DQ1neg3ZHP)<!-- 2024-04-11T21:57:24.618Z -->  
 [two circle 2 copy](https://editor.p5js.org/jht1900/sketches/B4yC4p3LQ)<!-- 2021-04-19T02:42:08.058Z -->  
 [two circle 2 copy](https://editor.p5js.org/jht1900/sketches/M3nuTk9m7)<!-- 2021-04-17T15:09:55.950Z -->  
-[video clock](https://editor.p5js.org/jht1900/sketches/SQvdG-9bM)<!-- 2022-11-04T02:40:41.889Z -->  
+[video clock](https://editor.p5js.org/jht1900/sketches/SQvdG-9bM)<!-- 2024-04-12T18:20:43.969Z -->  
 [video radial](https://editor.p5js.org/jht1900/sketches/ydWiCsI2z)<!-- 2022-11-03T17:19:43.397Z -->  
 [video radial perlin](https://editor.p5js.org/jht1900/sketches/TWxfoAfA6)<!-- 2022-11-04T02:26:51.187Z -->  
 [video radial perlin pix](https://editor.p5js.org/jht1900/sketches/PLn3zH1Gd)<!-- 2022-11-12T21:17:16.475Z -->  

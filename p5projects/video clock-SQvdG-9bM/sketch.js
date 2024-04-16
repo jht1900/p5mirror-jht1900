@@ -10,7 +10,7 @@ let y0;
 let capture;
 let ang = 0;
 let astep = 0.1;
-let astart = 15; //180;
+let astart = 5; //180;
 let aend = 360;
 let aclockStep = 0.1;
 let rscale = 2;

@@ -270,6 +270,191 @@
     "id": "-f0RN-6Mt"
   },
   {
+    "name": "2024-04-12 gold",
+    "_id": "ifbDrg259",
+    "updatedAt": "2024-04-13T02:55:48.542Z",
+    "files": [
+      {
+        "name": "root",
+        "content": "",
+        "children": [
+          "66198e8063bb14f083090ada",
+          "66198e8063bb14f083090adc",
+          "6619e87e88d71d001a7b6165"
+        ],
+        "fileType": "folder",
+        "_id": "66198e8063bb14f083090add",
+        "createdAt": "2024-04-12T19:41:52.134Z",
+        "updatedAt": "2024-04-13T02:55:48.542Z",
+        "id": "66198e8063bb14f083090add"
+      },
+      {
+        "name": "sketch.js",
+        "content": "function setup() {\n  createCanvas(400, 400);\n}\n\nfunction draw() {\n  background(220);\n}",
+        "children": [],
+        "fileType": "file",
+        "_id": "66198e8063bb14f083090ada",
+        "isSelectedFile": true,
+        "createdAt": "2024-04-12T19:41:52.134Z",
+        "updatedAt": "2024-04-12T19:41:52.134Z",
+        "id": "66198e8063bb14f083090ada"
+      },
+      {
+        "name": "style.css",
+        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "66198e8063bb14f083090adc",
+        "createdAt": "2024-04-12T19:41:52.134Z",
+        "updatedAt": "2024-04-12T19:41:52.134Z",
+        "id": "66198e8063bb14f083090adc"
+      },
+      {
+        "name": "index.html",
+        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.2/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.2/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "6619e87e88d71d001a7b6165",
+        "updatedAt": "2024-04-13T02:05:50.732Z",
+        "createdAt": "2024-04-13T02:05:50.732Z",
+        "id": "6619e87e88d71d001a7b6165"
+      }
+    ],
+    "createdAt": "2024-04-12T19:41:52.134Z",
+    "id": "ifbDrg259"
+  },
+  {
+    "name": "2024-04-12 gold",
+    "_id": "XGOn8xg5L",
+    "updatedAt": "2024-04-12T19:53:18.480Z",
+    "files": [
+      {
+        "name": "root",
+        "content": "",
+        "children": [
+          "66198c2866f970001a458f4a",
+          "661986c55b0810ed10c51b7e",
+          "661987f99b0419001abe69f3",
+          "661986c55b0810ed10c51b7d",
+          "661986c55b0810ed10c51b7f"
+        ],
+        "fileType": "folder",
+        "_id": "661986c55b0810ed10c51b80",
+        "createdAt": "2024-04-12T19:53:18.480Z",
+        "updatedAt": "2024-04-12T19:53:18.480Z",
+        "id": "661986c55b0810ed10c51b80"
+      },
+      {
+        "name": "sketch.js",
+        "content": "// https://editor.p5js.org/editor/jht1900/projects/XGOn8xg5L\n// 2024-04-12 gold\n\n// 2024-04-12 gold\n\n// 2024-04-12 gold\n\n// 2024-04-12 gold\n\n// 2024-04-12 gold\n\nfunction setup() {\n  createCanvas(400, 400);\n}\n\nfunction draw() {\n  background(220);\n}",
+        "children": [],
+        "fileType": "file",
+        "_id": "661986c55b0810ed10c51b7d",
+        "isSelectedFile": true,
+        "createdAt": "2024-04-12T19:53:18.480Z",
+        "updatedAt": "2024-04-12T19:53:18.480Z",
+        "id": "661986c55b0810ed10c51b7d"
+      },
+      {
+        "name": "index.html",
+        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.2/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.2/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "661986c55b0810ed10c51b7e",
+        "createdAt": "2024-04-12T19:53:18.480Z",
+        "updatedAt": "2024-04-12T19:53:18.480Z",
+        "id": "661986c55b0810ed10c51b7e"
+      },
+      {
+        "name": "style.css",
+        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "661986c55b0810ed10c51b7f",
+        "createdAt": "2024-04-12T19:53:18.480Z",
+        "updatedAt": "2024-04-12T19:53:18.480Z",
+        "id": "661986c55b0810ed10c51b7f"
+      },
+      {
+        "name": "power-fist-small-9.png",
+        "content": "",
+        "children": [],
+        "fileType": "file",
+        "_id": "661987f99b0419001abe69f3",
+        "url": "https://assets.editor.p5js.org/59fa7607513a0224544ec612/f0d4d157-c29e-4a71-b2c1-b5af5fde602b.png",
+        "updatedAt": "2024-04-12T19:53:18.480Z",
+        "createdAt": "2024-04-12T19:53:18.480Z",
+        "id": "661987f99b0419001abe69f3"
+      },
+      {
+        "name": "a_lib.js",
+        "content": "//\n\n// console.log('in a_main.js');\n\nimport './dbase/a_dbase.js?v=82';\nimport './get_url_params.js?v=82';\nimport './Pane.js?v=82';\nimport './Rect.js?v=82';\nimport './RefBox.js?v=82';\nimport './ui_/ui_logDetail.js?v=82';\nimport './ui_/ui_logSummary.js?v=82';\nimport './ui_/ui_span.js?v=82';\nimport './video_create.js?v=82';\n\n// console.log('a_main Anim ', Anim);\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "66198c2866f970001a458f4a",
+        "updatedAt": "2024-04-12T19:53:18.480Z",
+        "createdAt": "2024-04-12T19:53:18.480Z",
+        "id": "66198c2866f970001a458f4a"
+      }
+    ],
+    "createdAt": "2024-04-12T19:08:53.693Z",
+    "id": "XGOn8xg5L"
+  },
+  {
+    "name": "2024-04-12 red",
+    "_id": "zHrtMnSQJ",
+    "updatedAt": "2024-04-12T19:46:17.643Z",
+    "files": [
+      {
+        "name": "root",
+        "content": "",
+        "children": [
+          "661987030f1474ed352d06ee",
+          "661987030f1474ed352d06ed",
+          "661987030f1474ed352d06ef"
+        ],
+        "fileType": "folder",
+        "_id": "661987030f1474ed352d06f0",
+        "createdAt": "2024-04-12T19:46:17.643Z",
+        "updatedAt": "2024-04-12T19:46:17.643Z",
+        "id": "661987030f1474ed352d06f0"
+      },
+      {
+        "name": "sketch.js",
+        "content": "// https://editor.p5js.org/editor/jht1900/projects/zHrtMnSQJ\n// 2024-04-12 red\n\nfunction setup() {\n  createCanvas(400, 400);\n}\n\nfunction draw() {\n  background(220);\n}",
+        "children": [],
+        "fileType": "file",
+        "_id": "661987030f1474ed352d06ed",
+        "isSelectedFile": true,
+        "createdAt": "2024-04-12T19:46:17.643Z",
+        "updatedAt": "2024-04-12T19:46:17.643Z",
+        "id": "661987030f1474ed352d06ed"
+      },
+      {
+        "name": "index.html",
+        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.2/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.2/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "661987030f1474ed352d06ee",
+        "createdAt": "2024-04-12T19:46:17.643Z",
+        "updatedAt": "2024-04-12T19:46:17.643Z",
+        "id": "661987030f1474ed352d06ee"
+      },
+      {
+        "name": "style.css",
+        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "661987030f1474ed352d06ef",
+        "createdAt": "2024-04-12T19:46:17.643Z",
+        "updatedAt": "2024-04-12T19:46:17.643Z",
+        "id": "661987030f1474ed352d06ef"
+      }
+    ],
+    "createdAt": "2024-04-12T19:09:55.836Z",
+    "id": "zHrtMnSQJ"
+  },
+  {
     "name": "8 Note Envelope FFT ui copy",
     "_id": "LIRLhLfZr",
     "files": [
@@ -1682,60 +1867,6 @@
     "id": "GqgK2y03x"
   },
   {
-    "name": "Flat memory",
-    "_id": "3474rEu0V",
-    "updatedAt": "2024-04-11T22:04:06.998Z",
-    "files": [
-      {
-        "name": "root",
-        "content": "",
-        "children": [
-          "66185e4d4415aea1a226bd42",
-          "66185e4d4415aea1a226bd41",
-          "66185e4d4415aea1a226bd43"
-        ],
-        "fileType": "folder",
-        "_id": "66185e4d4415aea1a226bd44",
-        "createdAt": "2024-04-11T22:04:06.998Z",
-        "updatedAt": "2024-04-11T22:04:06.998Z",
-        "id": "66185e4d4415aea1a226bd44"
-      },
-      {
-        "name": "sketch.js",
-        "content": "function setup() {\n  createCanvas(400, 400);\n}\n\nfunction draw() {\n  background(220);\n}",
-        "children": [],
-        "fileType": "file",
-        "_id": "66185e4d4415aea1a226bd41",
-        "isSelectedFile": true,
-        "createdAt": "2024-04-11T22:04:06.998Z",
-        "updatedAt": "2024-04-11T22:04:06.998Z",
-        "id": "66185e4d4415aea1a226bd41"
-      },
-      {
-        "name": "index.html",
-        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
-        "children": [],
-        "fileType": "file",
-        "_id": "66185e4d4415aea1a226bd42",
-        "createdAt": "2024-04-11T22:04:06.998Z",
-        "updatedAt": "2024-04-11T22:04:06.998Z",
-        "id": "66185e4d4415aea1a226bd42"
-      },
-      {
-        "name": "style.css",
-        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
-        "children": [],
-        "fileType": "file",
-        "_id": "66185e4d4415aea1a226bd43",
-        "createdAt": "2024-04-11T22:04:06.998Z",
-        "updatedAt": "2024-04-11T22:04:06.998Z",
-        "id": "66185e4d4415aea1a226bd43"
-      }
-    ],
-    "createdAt": "2024-04-11T22:04:06.998Z",
-    "id": "3474rEu0V"
-  },
-  {
     "name": "font8x8 full screen copy",
     "_id": "ZQ_EH6PMT",
     "files": [
@@ -1926,60 +2057,6 @@
     "createdAt": "2021-04-28T00:26:57.746Z",
     "updatedAt": "2021-04-28T00:29:31.405Z",
     "id": "cS6CS1DsM"
-  },
-  {
-    "name": "Lightning trouble",
-    "_id": "iGWSQiLpX",
-    "updatedAt": "2024-04-11T22:03:49.857Z",
-    "files": [
-      {
-        "name": "root",
-        "content": "",
-        "children": [
-          "66185e394415aea1a226bd3e",
-          "66185e394415aea1a226bd3d",
-          "66185e394415aea1a226bd3f"
-        ],
-        "fileType": "folder",
-        "_id": "66185e394415aea1a226bd40",
-        "createdAt": "2024-04-11T22:03:49.857Z",
-        "updatedAt": "2024-04-11T22:03:49.857Z",
-        "id": "66185e394415aea1a226bd40"
-      },
-      {
-        "name": "sketch.js",
-        "content": "function setup() {\n  createCanvas(400, 400);\n}\n\nfunction draw() {\n  background(220);\n}",
-        "children": [],
-        "fileType": "file",
-        "_id": "66185e394415aea1a226bd3d",
-        "isSelectedFile": true,
-        "createdAt": "2024-04-11T22:03:49.857Z",
-        "updatedAt": "2024-04-11T22:03:49.857Z",
-        "id": "66185e394415aea1a226bd3d"
-      },
-      {
-        "name": "index.html",
-        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
-        "children": [],
-        "fileType": "file",
-        "_id": "66185e394415aea1a226bd3e",
-        "createdAt": "2024-04-11T22:03:49.857Z",
-        "updatedAt": "2024-04-11T22:03:49.857Z",
-        "id": "66185e394415aea1a226bd3e"
-      },
-      {
-        "name": "style.css",
-        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
-        "children": [],
-        "fileType": "file",
-        "_id": "66185e394415aea1a226bd3f",
-        "createdAt": "2024-04-11T22:03:49.857Z",
-        "updatedAt": "2024-04-11T22:03:49.857Z",
-        "id": "66185e394415aea1a226bd3f"
-      }
-    ],
-    "createdAt": "2024-04-11T22:03:49.857Z",
-    "id": "iGWSQiLpX"
   },
   {
     "name": "mediaDevices.enumerateDevices",
@@ -3257,6 +3334,60 @@
     "id": "9AlTdNafC"
   },
   {
+    "name": "Past wildflower",
+    "_id": "B5tg8u0V5",
+    "updatedAt": "2024-04-13T00:52:50.649Z",
+    "files": [
+      {
+        "name": "root",
+        "content": "",
+        "children": [
+          "6619d75df82d3c61c35835b5",
+          "6619d75df82d3c61c35835b4",
+          "6619d75df82d3c61c35835b6"
+        ],
+        "fileType": "folder",
+        "_id": "6619d75df82d3c61c35835b7",
+        "createdAt": "2024-04-13T00:52:50.649Z",
+        "updatedAt": "2024-04-13T00:52:50.649Z",
+        "id": "6619d75df82d3c61c35835b7"
+      },
+      {
+        "name": "sketch.js",
+        "content": "function setup() {\n  createCanvas(400, 400);\n}\n\nfunction draw() {\n  background(220);\n}",
+        "children": [],
+        "fileType": "file",
+        "_id": "6619d75df82d3c61c35835b4",
+        "isSelectedFile": true,
+        "createdAt": "2024-04-13T00:52:50.649Z",
+        "updatedAt": "2024-04-13T00:52:50.649Z",
+        "id": "6619d75df82d3c61c35835b4"
+      },
+      {
+        "name": "index.html",
+        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.1/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "6619d75df82d3c61c35835b5",
+        "createdAt": "2024-04-13T00:52:50.649Z",
+        "updatedAt": "2024-04-13T00:52:50.649Z",
+        "id": "6619d75df82d3c61c35835b5"
+      },
+      {
+        "name": "style.css",
+        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
+        "children": [],
+        "fileType": "file",
+        "_id": "6619d75df82d3c61c35835b6",
+        "createdAt": "2024-04-13T00:52:50.649Z",
+        "updatedAt": "2024-04-13T00:52:50.649Z",
+        "id": "6619d75df82d3c61c35835b6"
+      }
+    ],
+    "createdAt": "2024-04-13T00:52:50.649Z",
+    "id": "B5tg8u0V5"
+  },
+  {
     "name": "RGB 1k dir",
     "_id": "BkLs0kq0W",
     "updatedAt": "2017-11-03T13:51:50.763Z",
@@ -4235,168 +4366,6 @@
     "id": "fSUYUL7mJ"
   },
   {
-    "name": "Skitter abacus",
-    "_id": "-z75JPb1m",
-    "files": [
-      {
-        "name": "root",
-        "content": "",
-        "children": [
-          "6577a11c93b4c17638462b5c",
-          "6577a11c93b4c17638462b5b",
-          "6577a11c93b4c17638462b5d"
-        ],
-        "fileType": "folder",
-        "_id": "6577a11c93b4c17638462b5e",
-        "createdAt": "2024-04-11T22:01:21.765Z",
-        "updatedAt": "2024-04-11T22:01:21.765Z",
-        "id": "6577a11c93b4c17638462b5e"
-      },
-      {
-        "name": "sketch.js",
-        "content": "function setup() {\n  //This is a programatically generated file!!! \n createCanvas(400, 400);\n}\n\n\nfunction draw() {\n  background(220);\n}",
-        "children": [],
-        "fileType": "file",
-        "_id": "6577a11c93b4c17638462b5b",
-        "isSelectedFile": true,
-        "createdAt": "2024-04-11T22:01:21.765Z",
-        "updatedAt": "2024-04-11T22:01:21.765Z",
-        "id": "6577a11c93b4c17638462b5b"
-      },
-      {
-        "name": "index.html",
-        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
-        "children": [],
-        "fileType": "file",
-        "_id": "6577a11c93b4c17638462b5c",
-        "createdAt": "2024-04-11T22:01:21.765Z",
-        "updatedAt": "2024-04-11T22:01:21.765Z",
-        "id": "6577a11c93b4c17638462b5c"
-      },
-      {
-        "name": "style.css",
-        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
-        "children": [],
-        "fileType": "file",
-        "_id": "6577a11c93b4c17638462b5d",
-        "createdAt": "2024-04-11T22:01:21.765Z",
-        "updatedAt": "2024-04-11T22:01:21.765Z",
-        "id": "6577a11c93b4c17638462b5d"
-      }
-    ],
-    "createdAt": "2024-04-11T22:01:21.765Z",
-    "updatedAt": "2024-04-11T22:01:21.765Z",
-    "id": "-z75JPb1m"
-  },
-  {
-    "name": "Skitter abacus",
-    "_id": "50XGMdQXY",
-    "files": [
-      {
-        "name": "root",
-        "content": "",
-        "children": [
-          "6577a11c93b4c17638462b5c",
-          "6577a11c93b4c17638462b5b",
-          "6577a11c93b4c17638462b5d"
-        ],
-        "fileType": "folder",
-        "_id": "6577a11c93b4c17638462b5e",
-        "createdAt": "2024-04-11T21:59:16.320Z",
-        "updatedAt": "2024-04-11T21:59:16.320Z",
-        "id": "6577a11c93b4c17638462b5e"
-      },
-      {
-        "name": "sketch.js",
-        "content": "function setup() {\n  //This is a programatically generated file!!! \n createCanvas(400, 400);\n}\n\n\nfunction draw() {\n  background(220);\n}",
-        "children": [],
-        "fileType": "file",
-        "_id": "6577a11c93b4c17638462b5b",
-        "isSelectedFile": true,
-        "createdAt": "2024-04-11T21:59:16.320Z",
-        "updatedAt": "2024-04-11T21:59:16.320Z",
-        "id": "6577a11c93b4c17638462b5b"
-      },
-      {
-        "name": "index.html",
-        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
-        "children": [],
-        "fileType": "file",
-        "_id": "6577a11c93b4c17638462b5c",
-        "createdAt": "2024-04-11T21:59:16.320Z",
-        "updatedAt": "2024-04-11T21:59:16.320Z",
-        "id": "6577a11c93b4c17638462b5c"
-      },
-      {
-        "name": "style.css",
-        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
-        "children": [],
-        "fileType": "file",
-        "_id": "6577a11c93b4c17638462b5d",
-        "createdAt": "2024-04-11T21:59:16.320Z",
-        "updatedAt": "2024-04-11T21:59:16.320Z",
-        "id": "6577a11c93b4c17638462b5d"
-      }
-    ],
-    "createdAt": "2024-04-11T21:59:16.320Z",
-    "updatedAt": "2024-04-11T21:59:16.320Z",
-    "id": "50XGMdQXY"
-  },
-  {
-    "name": "Skitter abacus",
-    "_id": "DQ1neg3ZHP",
-    "files": [
-      {
-        "name": "root",
-        "content": "",
-        "children": [
-          "6577a11c93b4c17638462b5c",
-          "6577a11c93b4c17638462b5b",
-          "6577a11c93b4c17638462b5d"
-        ],
-        "fileType": "folder",
-        "_id": "6577a11c93b4c17638462b5e",
-        "createdAt": "2024-04-11T21:57:24.617Z",
-        "updatedAt": "2024-04-11T21:57:24.617Z",
-        "id": "6577a11c93b4c17638462b5e"
-      },
-      {
-        "name": "sketch.js",
-        "content": "function setup() {\n  //This is a programatically generated file!!! \n createCanvas(400, 400);\n}\n\n\nfunction draw() {\n  background(220);\n}",
-        "children": [],
-        "fileType": "file",
-        "_id": "6577a11c93b4c17638462b5b",
-        "isSelectedFile": true,
-        "createdAt": "2024-04-11T21:57:24.617Z",
-        "updatedAt": "2024-04-11T21:57:24.617Z",
-        "id": "6577a11c93b4c17638462b5b"
-      },
-      {
-        "name": "index.html",
-        "content": "<!DOCTYPE html>\n<html lang=\"en\">\n  <head>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/p5.js\"></script>\n    <script src=\"https://cdnjs.cloudflare.com/ajax/libs/p5.js/1.9.0/addons/p5.sound.min.js\"></script>\n    <link rel=\"stylesheet\" type=\"text/css\" href=\"style.css\">\n    <meta charset=\"utf-8\" />\n\n  </head>\n  <body>\n    <main>\n    </main>\n    <script src=\"sketch.js\"></script>\n  </body>\n</html>\n",
-        "children": [],
-        "fileType": "file",
-        "_id": "6577a11c93b4c17638462b5c",
-        "createdAt": "2024-04-11T21:57:24.618Z",
-        "updatedAt": "2024-04-11T21:57:24.618Z",
-        "id": "6577a11c93b4c17638462b5c"
-      },
-      {
-        "name": "style.css",
-        "content": "html, body {\n  margin: 0;\n  padding: 0;\n}\ncanvas {\n  display: block;\n}\n",
-        "children": [],
-        "fileType": "file",
-        "_id": "6577a11c93b4c17638462b5d",
-        "createdAt": "2024-04-11T21:57:24.618Z",
-        "updatedAt": "2024-04-11T21:57:24.618Z",
-        "id": "6577a11c93b4c17638462b5d"
-      }
-    ],
-    "createdAt": "2024-04-11T21:57:24.618Z",
-    "updatedAt": "2024-04-11T21:57:24.618Z",
-    "id": "DQ1neg3ZHP"
-  },
-  {
     "name": "two circle 2 copy",
     "_id": "B4yC4p3LQ",
     "files": [
@@ -4550,20 +4519,20 @@
         ],
         "fileType": "folder",
         "_id": "63647879c9ab507973d2b5ba",
-        "createdAt": "2022-11-04T02:40:41.889Z",
-        "updatedAt": "2022-11-04T02:40:41.889Z",
+        "createdAt": "2024-04-12T18:20:43.969Z",
+        "updatedAt": "2024-04-12T18:20:43.969Z",
         "isSelectedFile": false,
         "id": "63647879c9ab507973d2b5ba"
       },
       {
         "name": "sketch.js",
-        "content": "// https://editor.p5js.org/jht1900/sketches/SQvdG-9bM\n// video clock\n\nlet nwidth = 640;\nlet nheight = 480;\nlet xgap = nwidth / 9;\nlet ygap = nheight / 9;\nlet x0;\nlet y0;\nlet capture;\nlet ang = 0;\nlet astep = 0.1;\nlet astart = 15; //180;\nlet aend = 360;\nlet aclockStep = 0.1;\nlet rscale = 2;\nlet routterScale = 1;\n\nlet phase = 0;\nlet zoff = 0;\nlet noiseMax = 5;\n\nfunction setup() {\n  createCanvas(nwidth, nheight);\n  capture = createCapture(VIDEO);\n  capture.size(width, height);\n  capture.hide();\n  x0 = int(nwidth / 2);\n  y0 = int(nheight / 2);\n}\n\nfunction draw() {\n  // colorMode(HSB);\n  strokeWeight(1);\n  // background(0);\n\n  // image(img,dx,dy,dWidth,dHeight,sx,sy,[sWidth],[sHeight],\n  let img = capture.get();\n  image(img, 0, 0, nwidth);\n\n  draw_rad(img);\n}\n\nfunction draw_rad(img) {\n  for (let ang = astart; ang < aend; ang += astep) {\n    let r1 = xgap / 2;\n    let rang = radians(ang);\n    // let x1 = r1 * cos(rang);\n    // let y1 = r1 * sin(rang);\n\n    let xoff = map(cos(rang + phase), -1, 1, 0, noiseMax);\n    let yoff = map(sin(rang + phase), -1, 1, 0, noiseMax);\n    let r2 = map(noise(xoff, yoff, zoff), 0, 1, r1, r1 * rscale);\n    let x1 = r2 * cos(rang);\n    let y1 = r2 * sin(rang);\n\n    let c1 = img.get(x0 + x1, y0 + y1);\n    stroke(c1);\n    fill(x1);\n    fill(0);\n    circle(x0 + x1, y0 + y1, 5);\n\n    let r3 = nwidth * routterScale;\n    let x2 = r3 * cos(rang);\n    let y2 = r3 * sin(rang);\n    line(x0 + x1, y0 + y1, x0 + x2, y0 + y2);\n  }\n  phase += 0.003;\n  zoff += 0.01;\n  astart += aclockStep;\n  aend += aclockStep;\n}\n\n// https://editor.p5js.org/jht1900/sketches/TWxfoAfA6\n// video radial perlin\n\n// https://editor.p5js.org/codingtrain/sketches/sy1p1vnQn\n// Polar Perlin Noise Loop\n\n// https://editor.p5js.org/jht1900/sketches/ydWiCsI2z\n// video radial\n\n// https://editor.p5js.org/jht1900/sketches/-Ypn6ODK_\n// video scan radial\n\n// https://editor.p5js.org/jht1493/sketches/mEXETIijv\n// video scan gap center\n\n// https://editor.p5js.org/jht1493/sketches/oHVI5tU4BP\n// video scan gap\n\n// https://editor.p5js.org/jht1493/sketches/Q9jdcICpW\n// video scan mouseY\n\n// https://editor.p5js.org/jht1493/sketches/gnx2IQn1N\n// video scan\n\n// https://github.com/processing/p5.js/wiki/Beyond-the-canvas#capture-live-video\n",
+        "content": "// https://editor.p5js.org/jht1900/sketches/SQvdG-9bM\n// video clock\n\nlet nwidth = 640;\nlet nheight = 480;\nlet xgap = nwidth / 9;\nlet ygap = nheight / 9;\nlet x0;\nlet y0;\nlet capture;\nlet ang = 0;\nlet astep = 0.1;\nlet astart = 5; //180;\nlet aend = 360;\nlet aclockStep = 0.1;\nlet rscale = 2;\nlet routterScale = 1;\n\nlet phase = 0;\nlet zoff = 0;\nlet noiseMax = 5;\n\nfunction setup() {\n  createCanvas(nwidth, nheight);\n  capture = createCapture(VIDEO);\n  capture.size(width, height);\n  capture.hide();\n  x0 = int(nwidth / 2);\n  y0 = int(nheight / 2);\n}\n\nfunction draw() {\n  // colorMode(HSB);\n  strokeWeight(1);\n  // background(0);\n\n  // image(img,dx,dy,dWidth,dHeight,sx,sy,[sWidth],[sHeight],\n  let img = capture.get();\n  image(img, 0, 0, nwidth);\n\n  draw_rad(img);\n}\n\nfunction draw_rad(img) {\n  for (let ang = astart; ang < aend; ang += astep) {\n    let r1 = xgap / 2;\n    let rang = radians(ang);\n    // let x1 = r1 * cos(rang);\n    // let y1 = r1 * sin(rang);\n\n    let xoff = map(cos(rang + phase), -1, 1, 0, noiseMax);\n    let yoff = map(sin(rang + phase), -1, 1, 0, noiseMax);\n    let r2 = map(noise(xoff, yoff, zoff), 0, 1, r1, r1 * rscale);\n    let x1 = r2 * cos(rang);\n    let y1 = r2 * sin(rang);\n\n    let c1 = img.get(x0 + x1, y0 + y1);\n    stroke(c1);\n    fill(x1);\n    fill(0);\n    circle(x0 + x1, y0 + y1, 5);\n\n    let r3 = nwidth * routterScale;\n    let x2 = r3 * cos(rang);\n    let y2 = r3 * sin(rang);\n    line(x0 + x1, y0 + y1, x0 + x2, y0 + y2);\n  }\n  phase += 0.003;\n  zoff += 0.01;\n  astart += aclockStep;\n  aend += aclockStep;\n}\n\n// https://editor.p5js.org/jht1900/sketches/TWxfoAfA6\n// video radial perlin\n\n// https://editor.p5js.org/codingtrain/sketches/sy1p1vnQn\n// Polar Perlin Noise Loop\n\n// https://editor.p5js.org/jht1900/sketches/ydWiCsI2z\n// video radial\n\n// https://editor.p5js.org/jht1900/sketches/-Ypn6ODK_\n// video scan radial\n\n// https://editor.p5js.org/jht1493/sketches/mEXETIijv\n// video scan gap center\n\n// https://editor.p5js.org/jht1493/sketches/oHVI5tU4BP\n// video scan gap\n\n// https://editor.p5js.org/jht1493/sketches/Q9jdcICpW\n// video scan mouseY\n\n// https://editor.p5js.org/jht1493/sketches/gnx2IQn1N\n// video scan\n\n// https://github.com/processing/p5.js/wiki/Beyond-the-canvas#capture-live-video\n",
         "children": [],
         "fileType": "file",
         "_id": "63647879c9ab507973d2b5bc",
         "isSelectedFile": true,
-        "createdAt": "2022-11-04T02:40:41.889Z",
-        "updatedAt": "2022-11-04T02:40:41.889Z",
+        "createdAt": "2024-04-12T18:20:43.969Z",
+        "updatedAt": "2024-04-12T18:20:43.969Z",
         "id": "63647879c9ab507973d2b5bc"
       },
       {
@@ -4572,8 +4541,8 @@
         "children": [],
         "fileType": "file",
         "_id": "63647879c9ab507973d2b5bb",
-        "createdAt": "2022-11-04T02:40:41.889Z",
-        "updatedAt": "2022-11-04T02:40:41.889Z",
+        "createdAt": "2024-04-12T18:20:43.969Z",
+        "updatedAt": "2024-04-12T18:20:43.969Z",
         "isSelectedFile": false,
         "id": "63647879c9ab507973d2b5bb"
       },
@@ -4583,14 +4552,14 @@
         "children": [],
         "fileType": "file",
         "_id": "63647879c9ab507973d2b5bd",
-        "createdAt": "2022-11-04T02:40:41.889Z",
-        "updatedAt": "2022-11-04T02:40:41.889Z",
+        "createdAt": "2024-04-12T18:20:43.969Z",
+        "updatedAt": "2024-04-12T18:20:43.969Z",
         "isSelectedFile": false,
         "id": "63647879c9ab507973d2b5bd"
       }
     ],
     "createdAt": "2022-11-04T02:27:05.729Z",
-    "updatedAt": "2022-11-04T02:40:41.889Z",
+    "updatedAt": "2024-04-12T18:20:43.969Z",
     "id": "SQvdG-9bM"
   },
   {
